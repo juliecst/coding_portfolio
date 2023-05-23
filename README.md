@@ -1,2 +1,2 @@
-# portfolio_modina 
- modina coding portfolio
+# wcc2-portfolio
+ 
